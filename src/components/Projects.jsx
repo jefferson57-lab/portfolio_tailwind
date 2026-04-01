@@ -38,6 +38,15 @@ export default function Projects() {
       //link: 'https://example.com',
       github: 'https://github.com/Frank-incense/Bus_Booking_Web_Application',
     },
+    {
+      id: 5,
+      title: 'Climate Institute Website',
+      description: 'A responsive website for the Climate Institute, showcasing their mission, programs, and research initiatives. Implemented modern web design principles and ensured cross-browser compatibility.',
+      tech: ['React', 'Python', 'MySQL', 'JavaScript', 'Tailwind CSS', 'Git'],
+      image: 'icra-nature.jpg',
+      link: 'https://climateafrica.vercel.app/',
+      // github: 'https://github.com/Frank-incense/Bus_Booking_Web_Application',
+    },
   ]
 
   return (
